@@ -12,6 +12,7 @@ public class Usingtrycatch {
 
                 try{
 
+
                     String input = myScan.nextLine();
                     int myNum = Integer.parseInt(input);
 
