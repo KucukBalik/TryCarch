@@ -13,6 +13,7 @@ public class Usingtrycatch {
         int myNum = Integer.parseInt(input);
 
 
+
         //Check if the number is between 0 - 9
 
         if(myNum >= 0 && myNum <= 9) {
